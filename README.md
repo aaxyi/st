@@ -4,7 +4,7 @@ Concise patch collection for [suckless' st] terminal.
 
 [suckless' st]: https://st.suckless.org/
 
-* Zoom - <kbd>alt-plus/minus</kbd>
+* Zoom - <kbd>alt-plus/equal</kbd>
 * Scrollback - <kbd>alt-↑/↓</kbd> or <kbd>alt-mousewheel</kbd>
 * Clipboard - <kbd>ctrl-shift-v/c</kbd>, some applications need `xclip` to be installed
 * Boxdraw, font2, anysize, alpha, and xresources with signal reloading
